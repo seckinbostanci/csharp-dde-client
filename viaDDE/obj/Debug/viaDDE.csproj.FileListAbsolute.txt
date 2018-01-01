@@ -1,0 +1,20 @@
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\bin\Debug\viaDDE.exe.config
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\bin\Debug\viaDDE.exe
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\bin\Debug\viaDDE.pdb
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\bin\Debug\NDde.dll
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\obj\Debug\viaDDE.Form1.resources
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\obj\Debug\viaDDE.Properties.Resources.resources
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\obj\Debug\viaDDE.csproj.GenerateResource.Cache
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\obj\Debug\viaDDE.exe
+C:\Users\trader\CodeBase\algoforce\RenkoAppWdde\viaDDE\viaDDE\obj\Debug\viaDDE.pdb
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.Form1.resources
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.Properties.Resources.resources
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.csproj.GenerateResource.Cache
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.exe
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.pdb
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\bin\Debug\viaDDE.exe.config
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\bin\Debug\viaDDE.exe
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\bin\Debug\viaDDE.pdb
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\bin\Debug\NDde.dll
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.csproj.CoreCompileInputs.cache
+C:\Users\SECKIN BOSTANCI\Desktop\Trade-via.DDE-master\viaDDE\obj\Debug\viaDDE.csprojResolveAssemblyReference.cache
