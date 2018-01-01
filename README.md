@@ -10,5 +10,5 @@ add api to exchange , a BrokerPlugin to communicate with API for trading from Tr
 
 Fix 
 
-- binddata without threading issues, ( event handle ) DDE , onAdivse() 
+- binddata without threading issues, ( event handle ) DDE , onAdvise() 
 - IList or add dataSet database mySQL or SQL server to collect streaming tick data
